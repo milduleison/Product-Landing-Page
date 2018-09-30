@@ -1,0 +1,35 @@
+body {
+    background-color: #eaeaea;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.14vmax;
+}
+
+#header-img{
+    width: 200px;
+}
+
+.container{
+    border: black solid 1px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    flex-direction: column;
+}
+.email-form {
+    margin-top: 8px;
+}
+
+.input {
+    border: 1px solid #ccc;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-moz-box-shadow: 2px 2px 3px #666;
+	-webkit-box-shadow: 2px 2px 3px #666;
+	box-shadow: 2px 2px 3px #666;
+	font-size: 20px;
+	padding: 4px 7px;
+	outline: 0;
+    -webkit-appearance: none;
+    width:200px;
+}
