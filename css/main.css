@@ -16,17 +16,10 @@ article {
 aside {
     display: inline;
     float: right;
+    background-color: rgb(131, 133, 125)
     
 }
 
-.email{
-    border: black solid 1px;
-    display: flex;
-    justify-content: center;
-    align-items: flex-end;
-    flex-direction: column;
-            
-}
 .email-form {
     margin-top: 8px;
     
